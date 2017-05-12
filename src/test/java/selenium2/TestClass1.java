@@ -10,6 +10,7 @@ public class TestClass1 {
 		System.out.println("update 5");
 		System.out.println("update 6");
 		System.out.println("again update");
+		System.out.println("Remote update");
 	}
 
 }
