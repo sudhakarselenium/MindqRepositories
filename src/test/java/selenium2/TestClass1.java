@@ -7,6 +7,7 @@ public class TestClass1 {
 		System.out.println("This is test class1");
 		System.out.println("this is an update");
 		System.out.println("again update");
+		System.out.println("update 5");
 	}
 
 }
